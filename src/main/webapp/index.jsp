@@ -25,7 +25,7 @@
   </header>
   <main>
     <div class="intro">
-      <h1>Online Boutique</h1>
+      <h1>World Fashion</h1>
       <p>A single page to find wide collection of fashion</p>
     </div>
     <div class="achievements">
